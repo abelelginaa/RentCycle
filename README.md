@@ -59,11 +59,6 @@ Program menggunakan loop menu utama sehingga pengguna dapat memilih fitur sesuai
 
 ---
 
-## 📸 Screenshot (opsional)
-Tambahkan screenshot tampilan menu program di sini.
-
----
-
 ## 👩‍💻 Pengembang
 Project ini dikembangkan oleh:
 
@@ -73,8 +68,3 @@ Project ini dikembangkan oleh:
 Departemen Teknik Elektro dan Teknologi Informasi  
 Universitas Gadjah Mada — 2025
 
----
-
-## 📄 Lisensi
-Project ini dibuat untuk kebutuhan pembelajaran.  
-Silakan digunakan atau dikembangkan lebih lanjut.
